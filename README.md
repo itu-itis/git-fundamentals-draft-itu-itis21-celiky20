@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub [MODIFIED BY YAŞAR MEHMET ÇELİK, 150200302]
+# :wave: The Basics of GitHub [MODIFIED BY YAŞAR MEHMET ÇELİK, 150200302] 12.00
 
 ## 🤓 Course overview and learning outcomes 
 
