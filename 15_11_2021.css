@@ -9,23 +9,23 @@
         font-size: 24 pt;
         font-family: Tahoma, Helvetica, sans-serif;
         
-       }
+         }
 	 
       em {
 	      font-style: normal;
         color: green;
 	      background-color: lightgrey;
 	      font-weight: bold;
-       }   
-        ul {  
+         }   
+         ul {  
 	  list-style-type: square;
-	}
+	 }
 
 	  
-      a:hover {
-	text-decoration: none;
-     }
-	  
+        a:hover {
+	   text-decoration: none;
+        }
+	   
 	li: first-child {
 		border: thick soild green ;
 		margin-bottom: 1em;
